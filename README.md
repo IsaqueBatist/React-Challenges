@@ -12,12 +12,20 @@ Implement a button to show/hide the text content
 
 [Solucion](./src/Challanges/Challange1/Challange1.tsx)
 
-[Full content]("https://reactchallenges.live/challenge/1")
+[Full content](https://reactchallenges.live/challenge/1)
 
 ### Challenge 2 - Stopwatch/Timer
 
 Implement a Stopwatch/timmer as shown below with start ,stop and reset button.
 
-[Solution](./src/Challanges/challange2/)
+[Solution](./src/Challanges/challange2/Challenge2.tsx)
 
-[Full content]("https://reactchallenges.live/challenge/2")
+[Full content](https://reactchallenges.live/challenge/2)
+
+### Challenge 3 - TodoList
+
+Create a "todo" app with the following criteria. The user should able to add and remove todo items. Starter code is provided
+
+[Solution](./src/Challanges/challange3/Challenge3.tsx)
+
+[Full content](https://reactchallenges.live/challenge/3)

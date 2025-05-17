@@ -1,11 +1,11 @@
 import './App.css'
-import Challenge2 from './Challanges/challange2/Challenge2'
+import Challange3 from './Challanges/challange3/Challange3'
 
 function App() {
   return (
     <>
       <h1 className='text-4x1'>React Challenges</h1>
-      <Challenge2/>
+      <Challange3/>
     </>
   )
 }

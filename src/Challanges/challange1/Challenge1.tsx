@@ -5,8 +5,7 @@ export default function Challange1() {
   
   return (
     <>
-    <h2>Challange1</h2>
-
+    <h2 className='text-3x1'>Challange1</h2>
     <button 
       onClick={() => setIstoBeShowed((prev) => !prev)}
     >
