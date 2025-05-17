@@ -45,3 +45,11 @@ Grab the values from the input fields and print below as per the sample output.
 [Solution](./src/Challanges/challenge5/Challenge5.tsx)
 
 [Full content](https://reactchallenges.live/challenge/5)
+
+### Challenge 6 - Max Count
+
+Implement a button and timmer that will start from 10 and ends at 0 and tracks the counter untill the timer expires and button should disapper once timer expires.
+
+[Solution](./src/Challanges/challenge6/Challenge6.tsx)
+
+[Full content](https://reactchallenges.live/challenge/6)

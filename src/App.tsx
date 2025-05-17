@@ -49,6 +49,14 @@ function App() {
         <h2 className="text-xl font-semibold text-pink-600">Challenge 5</h2>
         <p className="text-gray-500 text-sm">Submit Form Data</p>
         </Link>
+
+        <Link
+        to="/challenge/6"
+        className="bg-white rounded-xl shadow hover:shadow-lg p-6 text-center transition duration-300 border hover:border-purple-500"
+        >
+        <h2 className="text-xl font-semibold text-purple-600">Challenge 6</h2>
+        <p className="text-gray-500 text-sm">Max count</p>
+        </Link>
       </div>
     </div>
   )
