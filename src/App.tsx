@@ -33,6 +33,14 @@ function App() {
           <h2 className="text-xl font-semibold text-yellow-600">Challenge 3</h2>
           <p className="text-gray-500 text-sm">TodoList</p>
         </Link>
+
+        <Link
+        to="/challenge/4"
+        className="bg-white rounded-xl shadow hover:shadow-lg p-6 text-center transition duration-300 border hover:border-red-500"
+        >
+        <h2 className="text-xl font-semibold text-red-600">Challenge 4</h2>
+        <p className="text-gray-500 text-sm">Progress Bar</p>
+        </Link>
       </div>
     </div>
   )

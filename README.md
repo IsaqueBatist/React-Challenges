@@ -29,3 +29,11 @@ Create a "todo" app with the following criteria. The user should able to add and
 [Solution](./src/Challanges/challange3/Challenge3.tsx)
 
 [Full content](https://reactchallenges.live/challenge/3)
+
+### Challenge 4 - Progress Bar
+
+Create a Progress Bar that should fill based on the input percentage value.
+
+[Solution](./src/Challanges/challenge4/Challenge4.tsx)
+
+[Full content](https://reactchallenges.live/challenge/4)
