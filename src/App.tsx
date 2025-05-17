@@ -57,6 +57,14 @@ function App() {
         <h2 className="text-xl font-semibold text-purple-600">Challenge 6</h2>
         <p className="text-gray-500 text-sm">Max count</p>
         </Link>
+
+        <Link
+        to="/challenge/10"
+        className="bg-white rounded-xl shadow hover:shadow-lg p-6 text-center transition duration-300 border hover:border-lime-500"
+        >
+        <h2 className="text-xl font-semibold text-lime-600">Challenge 10</h2>
+        <p className="text-gray-500 text-sm">React LazyLoad</p>
+        </Link>
       </div>
     </div>
   )

@@ -4,7 +4,7 @@ This repository is dedicated to enhancing my proficiency in React through logic 
 You can find the link to each challenge within its corresponding section.
 
 
-## Resolved Challenges
+## Resolved Hook Challenges
 
 ### Challenge 1 - Show/Hide tittle
 
@@ -53,3 +53,13 @@ Implement a button and timmer that will start from 10 and ends at 0 and tracks t
 [Solution](./src/Challanges/challenge6/Challenge6.tsx)
 
 [Full content](https://reactchallenges.live/challenge/6)
+
+## Resolved Router Challenges
+
+### Challenge 1 - React LazyLoad
+
+Use React Suspense to load components in lazy load fashion
+
+[Solution](./src/RouterChallenges/challenge1/Challenge1.tsx)
+
+[Full content](https://reactchallenges.live/challenge/10)

@@ -1,4 +1,4 @@
-import { StrictMode } from 'react'
+import { Suspense } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.tsx'
@@ -9,6 +9,7 @@ import Challange3 from './Challanges/challange3/Challange3.tsx'
 import Challenge4 from './Challanges/challenge4/Challenge4.tsx'
 import Challenge5 from './Challanges/challenge5/Challenge5.tsx'
 import Challenge6 from './Challanges/challenge6/Challenge6.tsx'
+import Challenge10 from './Challanges/challenge10/Challenge10.tsx'
 
 const router = createBrowserRouter([
   {path: '', element: <App />},
@@ -18,12 +19,11 @@ const router = createBrowserRouter([
   {path: 'challenge/4', element: <Challenge4/>},
   {path: 'challenge/5', element: <Challenge5/>},
   {path: 'challenge/6', element: <Challenge6/>},
+  {path: 'challenge/10', element: <Challenge10/>},
 ])
 
 
 
 createRoot(document.getElementById('root')!).render(
-  <StrictMode>
     <RouterProvider router={router} />
-  </StrictMode>,
 )
