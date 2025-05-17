@@ -37,3 +37,11 @@ Create a Progress Bar that should fill based on the input percentage value.
 [Solution](./src/Challanges/challenge4/Challenge4.tsx)
 
 [Full content](https://reactchallenges.live/challenge/4)
+
+### Challenge 5 - Submit Form Data
+
+Grab the values from the input fields and print below as per the sample output.
+
+[Solution](./src/Challanges/challenge5/Challenge5.tsx)
+
+[Full content](https://reactchallenges.live/challenge/5)
